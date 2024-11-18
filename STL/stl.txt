@@ -1,0 +1,22 @@
+pair
+vector
+list
+deque -> push_back,push_front, pop_back,pop_front, front(), back()
+
+stack
+queue
+
+**************
+priority queue -> largest element stays at top // descending order  
+
+to minimun in top syntax is ->  priority_queue<int, vector<int>,greater<int>> pq;
+
+push,pop  -> log(n)
+top -> O(1)
+
+
+***************
+
+map -> key:value
+
+
